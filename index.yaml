@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-marketplace:
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2021-08-21T22:55:48.8589964+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 6f68d910a0ee0129e3fcbbe94719ccdc96b5a4d8de70453dd0eb122fd31e9ee3
+    name: helm-marketplace
+    type: application
+    urls:
+    - https://ajaypathak372.github.io/helm-charts/helm-marketplace-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-08-21T22:55:48.8569279+05:30"
